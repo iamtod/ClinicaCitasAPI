@@ -161,7 +161,8 @@ Casos de prueba recomendados para validar el funcionamiento completo:
 ## Equipo de desarrollo
 
 - Integrantes:
-Alvarez Franco, Walter
-Virrueta Diaz, Victor
+- Alvarez Franco, Walter
+
+- Virrueta Diaz, Victor
 
 GitHub: https://github.com/iamtod/ClinicaCitasAPI
